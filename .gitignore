@@ -1,24 +1,18 @@
-# Unity
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+Assets/AssetStoreTools*
 Logs/
 MemoryCaptures/
-UserSettings/
 
-# Visual Studio
-.vscode/
-.vs/
-*.csproj
-*.unityproj
-*.sln
-*.suo
-*.tmp
-*.user
-*.userprefs
-
-# JetBrains Rider
+# Ignore auto-generated JetBrains Rider plugin files
 .idea/
-*.iml
+
+# Visual Studio cache directory
+.vscode/
+
+# Crash Reports
+*.crash
+*.pidb
